@@ -1,0 +1,8 @@
+
+3 	 1
+3 	 1
+3 	 1
+5 	 1
+
+Found 3 3 -char length words.
+Found 1 5 -char length words.

@@ -1,0 +1,15 @@
+
+hän 	 1
+joka 	 1
+myös 	 1
+oli 	 1
+oli 	 1
+vajaa 	 1
+vuonna 	 1
+
+oli  	 2
+vuonna  	 1
+vajaa  	 1
+myös  	 1
+joka  	 1
+hän  	 1
